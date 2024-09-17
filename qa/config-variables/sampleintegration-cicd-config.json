@@ -1,0 +1,6 @@
+{
+	"`CONFIG_CONN_NAME`": "projects/apigeex-proto/locations/us-east1/connections/pubsub",
+	"`CONFIG_ENV`": "qa",
+	"`CONFIG_TOPIC`": "projects/apigeex-proto/topics/mytopic",
+	"`CONFIG_URL`": "https://mocktarget.apigee.net/echo"
+}
