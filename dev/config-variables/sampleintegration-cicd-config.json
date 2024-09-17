@@ -1,0 +1,6 @@
+{
+	"`CONFIG_CONN_NAME`": "projects/dd-hybrid-project/locations/us-west2/connections/pubsub",
+	"`CONFIG_ENV`": "dev",
+	"`CONFIG_TOPIC`": "projects/dd-hybrid-project/topics/mytopic",
+	"`CONFIG_URL`": "https://httpbin.org/get"
+}
